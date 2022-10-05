@@ -1,0 +1,16 @@
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.exe
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.deps.json
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.runtimeconfig.json
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.runtimeconfig.dev.json
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.dll
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\bin\Debug\net5.0\trianguloPascal.pdb
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.AssemblyInfo.cs
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.dll
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\refint\trianguloPascal.dll
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.pdb
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\trianguloPascal.genruntimeconfig.cache
+C:\inetpub\wwwroot\C_Sharp\trianguloPascal\trianguloPascal\obj\Debug\net5.0\ref\trianguloPascal.dll
