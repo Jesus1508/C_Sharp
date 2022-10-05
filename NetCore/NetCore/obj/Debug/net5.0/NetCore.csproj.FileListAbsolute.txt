@@ -1,0 +1,16 @@
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.exe
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.deps.json
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.runtimeconfig.json
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.runtimeconfig.dev.json
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.dll
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\bin\Debug\net5.0\NetCore.pdb
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.AssemblyInfo.cs
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.dll
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\refint\NetCore.dll
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.pdb
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\NetCore.genruntimeconfig.cache
+C:\inetpub\wwwroot\C_Sharp\NetCore\NetCore\obj\Debug\net5.0\ref\NetCore.dll
